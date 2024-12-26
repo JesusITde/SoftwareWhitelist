@@ -5,6 +5,11 @@ Voraussetzungen für die Aufnahme sind folgende:
 * vertretbare Risiken allgemein
 * Einschränkungen wenn Vorhanden sollten hier benannt werden
 
+## Haftungsausschluss und Diskussion
+Es wird in jedem Fall keine Haftung übernommen, falls diese Kriterien nicht erfüllt sind.
+Gerne in dem "Discussions"-Tab auch einzelne Programme / Tools oder Webseiten in Frage stellen. Bitte dann wenn möglich auch direkt eine bessere Alternative benennen.
+Diese werden dann nach Überprüfung ggf. durch eine bessere Alternative ersetzt.
+
   
 ## FTP / SFTP / SSH
 * https://winscp.net/eng/docs/lang:de
