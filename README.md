@@ -13,6 +13,14 @@
 * Visual Studio
 * Visual Studio Code
 * Github Copilot (unter Vorbehalt)
+* Github CLI
+* LinqPad (C#)
+* Node.js
+* Notepad++
 
-## Antivirus
+## Antivirus / Security
 * Avast Free (unter Vorbehalt)
+* KeePass
+
+## Präsentation und allgemeines Windows Tooling
+* PowerToys https://learn.microsoft.com/de-de/windows/powertoys/
