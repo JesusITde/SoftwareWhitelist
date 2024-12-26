@@ -9,7 +9,7 @@ Voraussetzungen für die Aufnahme sind folgende:
 Es wird in jedem Fall keine Haftung übernommen, falls diese Kriterien nicht erfüllt sind.
 Gerne in dem "Discussions"-Tab auch einzelne Programme / Tools oder Webseiten in Frage stellen. Bitte dann wenn möglich auch direkt eine bessere Alternative benennen.
 Diese werden dann nach Überprüfung ggf. durch eine bessere Alternative ersetzt.
-
+Es wird versucht diese Liste nach bestem Wissen und Gewissen zu erstellen und zu aktualisieren soweit dies zeitlich möglich ist.
   
 ## FTP / SFTP / SSH
 * https://winscp.net/eng/docs/lang:de
