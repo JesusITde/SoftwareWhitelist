@@ -22,8 +22,13 @@ Voraussetzungen für die Aufnahme sind folgende:
 * Github Copilot (unter Vorbehalt) - Daten fließen zum Cloud Anbieter (Github/Microsoft) - Konfiguration weitestgehend möglich
 * Github CLI
 * LinqPad (C#)
-* Node.js
-* Notepad++
+* Node.js https://nodejs.org/
+* NPM https://www.npmjs.com/
+* Notepad++ - https://notepad-plus-plus.org/downloads/
+* git - https://git-scm.com/
+
+## Webseiten
+* nuget.org
 
 ## Antivirus / Security
 * Avast Free (unter Vorbehalt - wurde noch nicht ausführlich geprüft)
